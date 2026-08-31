@@ -9,17 +9,13 @@ Taskflow is a browser-based task management application for organizing team work
 
 ## Screenshots
 
-Add the final screenshots here before submission:
+1. Kanban board
 
-1. Kanban board — save as `docs/kanban-board.png`
-2. Dashboard — save as `docs/dashboard.png`
-
-After adding the images, replace this note with:
-
-```md
 ![Kanban board](docs/kanban-board.png)
+
+2. Dashboard
+
 ![Dashboard](docs/dashboard.png)
-```
 
 ## Features
 
