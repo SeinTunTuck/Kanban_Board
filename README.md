@@ -33,9 +33,9 @@ Taskflow is a browser-based task management application for organizing team work
 
 ## Team members
 
-- Add member name
-
-> List names only. Do not include student IDs.
+- SEIN TUN TUCK -
+- SENG BAN NU -
+- MIN HTET - 
 
 ## Basic usage
 
