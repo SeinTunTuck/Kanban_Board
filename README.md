@@ -33,9 +33,9 @@ Taskflow is a browser-based task management application for organizing team work
 
 ## Team members
 
-- SEIN TUN TUCK -
-- SENG BAN NU -
-- MIN HTET - 
+- SEIN TUN TUCK -6622152
+- SENG BAN NU -6622007
+- MIN HTET - 6622085
 
 ## Basic usage
 
